@@ -1,0 +1,15 @@
+{
+  "schemaVersion": 1,
+  "id": "keepresourcepacks",
+  "version": "${version}",
+  "name": "Keep Resource Packs",
+  "description": "Keeps the selected client resource-pack list after a failed manual resource reload on Minecraft 26.3.",
+  "authors": ["Mounir"],
+  "license": "MIT",
+  "environment": "client",
+  "mixins": ["keepresourcepacks.mixins.json"],
+  "depends": {
+    "fabricloader": ">=0.19.5",
+    "minecraft": "26.3.x"
+  }
+}

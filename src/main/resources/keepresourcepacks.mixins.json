@@ -1,0 +1,11 @@
+{
+  "required": true,
+  "package": "com.mounir.keepresourcepacks.mixin",
+  "compatibilityLevel": "JAVA_25",
+  "client": [
+    "MinecraftResourcePackRollbackMixin"
+  ],
+  "injectors": {
+    "defaultRequire": 1
+  }
+}
