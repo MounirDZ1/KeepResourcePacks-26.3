@@ -1,3 +1,9 @@
+## ⬇️ Download
+
+**[Download Keep Resource Packs 1.0.1 (.jar)](https://github.com/MounirDZ1/KeepResourcePacks-26.3/releases/tag/v1.0.1)**
+
+Download the `.jar` file from the **Assets** section below. Install the main mod JAR in your Minecraft `mods` folder. Do not install the `-sources.jar` file.
+
 # Keep Resource Packs
 
 A client-side Fabric mod for Minecraft Java Edition 26.3.
