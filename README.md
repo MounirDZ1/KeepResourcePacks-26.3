@@ -1,8 +1,13 @@
 ## ⬇️ Download
 
-**[Download Keep Resource Packs 1.0.1 (.jar)](https://github.com/MounirDZ1/KeepResourcePacks-26.3/releases/tag/v1.0.1)**
+### [⬇️ Download Keep Resource Packs 1.0.1 (.jar)](https://github.com/MounirDZ1/KeepResourcePacks-26.3/releases/download/v1.0.1/keep-resource-packs-1.0.1.jar)
 
-Download the `.jar` file from the **Assets** section below. Install the main mod JAR in your Minecraft `mods` folder. Do not install the `-sources.jar` file.
+**Installation:** Place the downloaded `.jar` file in your Minecraft `mods` folder.
+
+**Requirements:** Minecraft Java Edition 26.3, Fabric Loader, and Java 25.
+
+**Important:** Download only the main `.jar` file. Do not install the `-sources.jar` file.
+
 
 # Keep Resource Packs
 
